@@ -1,0 +1,220 @@
+Cmp-Mod V01 Created by PcbNew date = Mon 10 Aug 2015 08:54:06 PM NPT
+
+BeginCmp
+TimeStamp = /55C72B97;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72B79;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = C1V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72B88;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72BA6;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = C1V8;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72C86;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78EFA;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C789F5;
+Reference = IRLED1;
+ValeurCmp = LM555N;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A14;
+Reference = LC4;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A0E;
+Reference = LC6;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A3A;
+Reference = LPOTU1;
+ValeurCmp = POT;
+IdModule  = CVAR3X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C737A7;
+Reference = MC4;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C73734;
+Reference = MC6;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72B6A;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72D27;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C791A8;
+Reference = Q1;
+ValeurCmp = BC546;
+IdModule  = TO92;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72CD7;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78F09;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C791C4;
+Reference = RBC1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C791CA;
+Reference = RBU1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C791B7;
+Reference = RUEM1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C7313D;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = CVAR3X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C73130;
+Reference = RV2;
+ValeurCmp = POT;
+IdModule  = CVAR3X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A01;
+Reference = RV3;
+ValeurCmp = POT;
+IdModule  = CVAR3X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C730C0;
+Reference = U1;
+ValeurCmp = LM555N;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C72B5B;
+Reference = U2;
+ValeurCmp = 7805;
+IdModule  = LM78XXV;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A64;
+Reference = UC5;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A5E;
+Reference = UC6;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C790BD;
+Reference = ULTRA1;
+ValeurCmp = CRYSTAL;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A45;
+Reference = Ultrasonic1;
+ValeurCmp = LM555N;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A51;
+Reference = UPOTD1;
+ValeurCmp = POT;
+IdModule  = CVAR3X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78A8A;
+Reference = UPOTUP1;
+ValeurCmp = POT;
+IdModule  = CVAR3X2;
+EndCmp
+
+EndListe
